@@ -1,37 +1,41 @@
 {
-  "question": [
-    "Q1. 3+4=?",
-    "Q2. 2+6=?",
-    "Q3. 5-2=?",
-    "Q4. 10-11=?"
-  ],
-  "answer": [
-    1,
-    2,
-    3,
-    4
-  ],
-  "options": [
-
-    ["7",
-      "8",
-      "3",
-      "-1"
-    ],
-    ["7",
-      "8",
-      "3",
-      "-1"
-    ],
-    ["7",
-      "8",
-      "3",
-      "-1"
-    ],
-    ["7",
-      "8",
-      "3",
-      "-1"
-    ]
-  ]
+"question": [
+"Q1. 3+4=?",
+"Q2. 2+6=?",
+"Q3. 5-2=?",
+"Q4. 10-11=?",
+"Q5. What is the capital of France?",
+"Q6. Who invented the telephone?",
+"Q7. What is the largest planet in our solar system?",
+"Q8. Who painted the Mona Lisa?"
+],
+"answer": [
+1,
+2,
+3,
+4,
+2,
+3,
+1,
+2
+],
+"options": [["7",  "8",  "3",  "-1"],
+["7",  "8",  "3",  "-1"],
+["7",  "8",  "3",  "-1"],
+["7",  "8",  "3",  "-1"],
+["Berlin",  "Paris",  "Rome",  "Madrid"],
+["Thomas Edison",  "Alexander Graham Bell",  "Nikola Tesla",  "Benjamin Franklin"],
+["Saturn",  "Jupiter",  "Neptune",  "Mars"],
+["Vincent van Gogh",  "Leonardo da Vinci",  "Pablo Picasso",  "Michelangelo"]
+],
+"topic": [
+"math",
+"math",
+"math",
+"math",
+"geography",
+"history",
+"science",
+"art"
+]
 }
