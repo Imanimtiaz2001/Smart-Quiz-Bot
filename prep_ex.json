@@ -1,0 +1,74 @@
+{
+"down": [
+"The cat jumped down the tree",
+"The book fell down the stairs",
+"The rain poured down the roof",
+"She slid down the slide",
+"He climbed down the ladder",
+"The ball rolled down the hill"
+],
+"in": [
+"The bird is in the cage",
+"The keys are in the drawer",
+"The coins are in the jar",
+"She is swimming in the pool",
+"He is hiding in the closet",
+"The book is in the backpack"
+],
+"onto": [
+"The cat jumped onto the table",
+"She put the plate onto the shelf",
+"He climbed onto the roof",
+"The squirrel leaped onto the branch",
+"He stepped onto the bus",
+"She placed the vase onto the table"
+],
+"from": [
+"She received a letter from her friend",
+"He borrowed a book from the library",
+"The bird flew away from the tree",
+"He ran from the dog",
+"She heard a noise from the kitchen",
+"They escaped from the prison"
+],
+"on": [
+"The book is on the table",
+"She placed the cup on the shelf",
+"The sun is shining on the beach",
+"He sat on the chair",
+"The picture hangs on the wall",
+"The cat is sleeping on the bed"
+],
+"at": [
+"We met at the park",
+"He arrived at the airport",
+"The concert is at the stadium",
+"She is waiting at the bus stop",
+"They are having dinner at the restaurant",
+"He works at the hospital"
+],
+"above": [
+"The bird is flying above the clouds",
+"The plane is flying above the city",
+"The kite is floating above the trees",
+"The helicopter hovers above the building",
+"The moon shines above the lake",
+"The birds soar above the mountains"
+],
+"across": [
+"They walked across the bridge",
+"The cat ran across the street",
+"She swam across the lake",
+"He drove across the country",
+"The hiker trekked across the desert",
+"The friends held hands and skipped across the meadow"
+],
+"out of": [
+"The cat jumped out of the box",
+"He took the money out of his pocket",
+"She got out of the car",
+"The butterfly emerged out of its cocoon",
+"They ran out of the burning building",
+"He pulled the book out of the shelf"
+]
+}

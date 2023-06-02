@@ -1,0 +1,412 @@
+{
+    "question": [
+        "Q. What is the meaning of 'belligerent'?",
+        "Q. What is the meaning of 'superfluous'?",
+        "Q. What is the meaning of 'voracious'?",
+        "Q. What is the meaning of 'expedite'?",
+        "Q. What is the meaning of 'ephemeral'?",
+        "Q. What is the meaning of 'quintessential'?",
+        "Q. What is the meaning of 'garrulous'?",
+        "Q. What is the meaning of 'rhetoric'?",
+        "Q. What is the meaning of 'myriad'?",
+        "Q. What is the meaning of 'quagmire'?",
+        "Q. What is the meaning of 'quell?'?",
+        "Q. What is the meaning of 'indigenous'?",
+        "Q. What is the meaning of 'prevalent'?",
+        "Q. What is the meaning of 'fastidious'?",
+        "Q. What is the meaning of 'deft'?",
+        "Q. What is the meaning of 'exacerbate'?",
+        "Q. What is the meaning of 'enervate'?",
+        "Q. What is the meaning of 'pedantic'?",
+        "Q. What is the meaning of 'gregarious'?",
+        "Q. What is the meaning of 'lackadaisical'?",
+        "Q. Choose the correct preposition for \n'Ali is lying _____ the bed.'",
+        "Q. Choose the correct preposition for \n'I put my phone _____ the table.'",
+        "Q. Choose the correct preposition for \n'The cat is hiding _____ the box.'",
+        "Q. Choose the correct preposition for \n'The book is __________ the shelf.'",
+        "Q. Choose the correct preposition for \n'He was born ___________ 1980.'",
+        "Q. Choose the correct preposition for \n'The movie starts ___________ 8 pm.'",
+        "Q. Choose the correct preposition for \n'The school is located ___________ the city center.'",
+        "Q. Choose the correct preposition for \n'The bus stops ___________ the station.'",
+        "Q. Choose the correct preposition for \n'The concert was held ___________ the park.'",
+        "Q. Choose the correct preposition for \n'They met ___________ the restaurant.'",
+        "Q. Choose the correct preposition for \n'The train leaves ___________ 10 minutes.'",
+        "Q. Choose the correct preposition for \n'The keys are ___________ the table.'",
+        "Q. Choose the correct preposition for \n'They walked ___________ the beach.'",
+        "Q. Choose the correct preposition for \n'The store is ___________ the corner.'",
+        "Q. Choose the correct preposition for \n'The plane flies ___________ the clouds.'",
+        "Q. Choose the correct preposition for \n'The dog ran ___________ the street.'",
+        "Q. Choose the correct preposition for \n'The clock is ___________ the wall.'",
+        "Q. Choose the correct preposition for \n'The bird flew ___________ the tree.'",
+        "Q. Choose the correct preposition for \n'The picture hangs ___________ the wall.'",
+        "Q. Choose the correct preposition for \n'The keys are ___________ the car.'"
+    ],
+    "cluster_label": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "true__label": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "answer": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        1,
+        3,
+        2,
+        1,
+        2,
+        3,
+        4,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        4,
+        1,
+        2,
+        3,
+        4,
+        1,
+        2,
+        3,
+        4,
+        1
+    ],
+    "options": [
+        [
+            "peaceful",
+            "friendly",
+            "hostile",
+            "agreeable"
+        ],
+        [
+            "necessary",
+            "essential",
+            "surplus",
+            "significant"
+        ],
+        [
+            "uninterested",
+            "unenthusiastic",
+            "ravenous",
+            "moderate"
+        ],
+        [
+            "delay",
+            "hinder",
+            "accelerate",
+            "impede"
+        ],
+        [
+            "permanent",
+            "everlasting",
+            "transient",
+            "enduring"
+        ],
+        [
+            "irrelevant",
+            "trivial",
+            "fundamental",
+            "insignificant"
+        ],
+        [
+            "taciturn",
+            "quiet",
+            "loquacious",
+            "reserved"
+        ],
+        [
+            "honesty",
+            "sincerity",
+            "insincerity",
+            "persuasive language"
+        ],
+        [
+            "limited",
+            "few",
+            "numerous",
+            "small"
+        ],
+        [
+            "solution",
+            "predicament",
+            "success",
+            "achievement"
+        ],
+        [
+            "incite",
+            "provoke",
+            "calm",
+            "excite"
+        ],
+        [
+            "foreign",
+            "imported",
+            "native",
+            "strange"
+        ],
+        [
+            "rare",
+            "infrequent",
+            "common",
+            "unusual"
+        ],
+        [
+            "sloppy",
+            "careless",
+            "meticulous",
+            "hasty"
+        ],
+        [
+            "clumsy",
+            "awkward",
+            "skillful",
+            "unskillful"
+        ],
+        [
+            "alleviate",
+            "ease",
+            "worsen",
+            "improve"
+        ],
+        [
+            "energize",
+            "invigorate",
+            "weaken",
+            "strengthen"
+        ],
+        [
+            "precise",
+            "concise",
+            "sloppy",
+            "careless"
+        ],
+        [
+            "permanent",
+            "enduring",
+            "sociable",
+            "everlasting"
+        ],
+        [
+            "diligent",
+            "lazy",
+            "energetic",
+            "hardworking"
+        ],
+        [
+            "on",
+            "in",
+            "of",
+            "above"
+        ],
+        [
+            "below",
+            "on",
+            "of",
+            "above"
+        ],
+        [
+            "on",
+            "below",
+            "in",
+            "above"
+        ],
+        [
+            "above",
+            "in",
+            "of",
+            "on"
+        ],
+        [
+            "in",
+            "on",
+            "at",
+            "over"
+        ],
+        [
+            "in",
+            "at",
+            "on",
+            "under"
+        ],
+        [
+            "by",
+            "on",
+            "at",
+            "in"
+        ],
+        [
+            "at",
+            "on",
+            "in",
+            "to"
+        ],
+        [
+            "at",
+            "in",
+            "on",
+            "to"
+        ],
+        [
+            "in",
+            "on",
+            "at",
+            "for"
+        ],
+        [
+            "by",
+            "on",
+            "under",
+            "in"
+        ],
+        [
+            "on",
+            "in",
+            "at",
+            "along"
+        ],
+        [
+            "at",
+            "on",
+            "in",
+            "to"
+        ],
+        [
+            "in",
+            "above",
+            "on",
+            "under"
+        ],
+        [
+            "in",
+            "on",
+            "across",
+            "above"
+        ],
+        [
+            "across",
+            "on",
+            "in",
+            "above"
+        ],
+        [
+            "in",
+            "on",
+            "at",
+            "to"
+        ],
+        [
+            "in",
+            "on",
+            "out of",
+            "to"
+        ],
+        [
+            "in",
+            "of",
+            "at",
+            "on"
+        ],
+        [
+            "in",
+            "on",
+            "at",
+            "to"
+        ]
+    ]
+}

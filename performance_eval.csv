@@ -1,0 +1,6 @@
+Language,Cluster,Accuracy,Precision,Recall,F1 Score
+Math,Cluster 0,100.0,100.0,100.0,100.0
+Math,Cluster 1,96.0,100.0,84.0,91.30434782608695
+Math,Cluster 2,99.0,100.0,96.0,97.95918367346938
+Math,Cluster 3,100.0,100.0,100.0,100.0
+Math,Overall,98.75,100.0,95.0,97.31588287488908

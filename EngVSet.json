@@ -1,0 +1,27 @@
+{
+  "question": [      
+  "What is the meaning of 'meticulous'?",
+  "What is the meaning of 'prolific'?",  
+  "What is the meaning of 'enigmatic'?",
+  "What is the meaning of 'resilient'?", 
+  "What is the meaning of 'strenuous'?",
+    "Choose the correct preposition for \n'The ball rolled ___________ the hill.'",
+    "Choose the correct preposition for \n'The flowers are ___________ the vase.'",
+    "Choose the correct preposition for \n'The coffee is ___________ the cup.'",
+    "Choose the correct preposition for \n'The cat jumped ___________ the roof.'",
+    "Choose the correct preposition for \n'The apple fell ___________ the tree.'"
+  ],
+  "answer": [4,2,3,3,2,2,3,4,1,2],
+  "options": [ 
+    ["careless", "hasty", "sloppy", "careful"],
+    ["rare", "abundant", "dull", "quiet"],
+    ["simple", "clear", "confusing", "understandable"],
+    ["weak", "brittle", "strong", "frail"],
+    ["easy", "difficult", "moderate", "light"],
+    ["in", "down", "at", "to"],
+    ["at", "on", "in", "to"],
+    ["of", "on", "at", "in"],
+    ["onto", "on", "at", "to"],
+    ["in", "from", "at", "to"]
+  ]
+}
